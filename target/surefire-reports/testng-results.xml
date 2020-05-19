@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69" started-at="2020-05-16T18:52:25Z" finished-at="2020-05-16T18:52:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69" started-at="2020-05-16T18:52:25Z" finished-at="2020-05-16T18:52:25Z">
+      <class name="qaclickacademy.appiumTest">
+        <test-method status="PASS" signature="app()[pri:0, instance:qaclickacademy.appiumTest@6c3f5566]" name="app" duration-ms="10" started-at="2020-05-16T18:52:25Z" finished-at="2020-05-16T18:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app -->
+        <test-method status="PASS" signature="app1()[pri:0, instance:qaclickacademy.appiumTest@6c3f5566]" name="app1" duration-ms="1" started-at="2020-05-16T18:52:25Z" finished-at="2020-05-16T18:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app1 -->
+      </class> <!-- qaclickacademy.appiumTest -->
+      <class name="qaclickacademy.appTest">
+        <test-method status="PASS" signature="appclass()[pri:0, instance:qaclickacademy.appTest@12405818]" name="appclass" duration-ms="0" started-at="2020-05-16T18:52:25Z" finished-at="2020-05-16T18:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appclass -->
+      </class> <!-- qaclickacademy.appTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
